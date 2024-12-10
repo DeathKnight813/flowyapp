@@ -11,8 +11,8 @@ AppFlowy is the AI workspace where you achieve more without losing control of yo
 
 <p align="center">
 <a href="https://discord.gg/9Q2xaN37tV"><img src="https://img.shields.io/badge/AppFlowy.IO-discord-orange"></a>
-<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
-<a href="https://github.com/AppFlowy-IO/appflowy"><img src="https://img.shields.io/github/forks/AppFlowy-IO/appflowy.svg"></a>
+<a href="https://github.com/VictorRaynor/AppFlowy"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy.svg?style=flat&logo=github&colorB=deeppink&label=stars"></a>
+<a href="https://github.com/VictorRaynor/AppFlowy"><img src="https://img.shields.io/github/forks/AppFlowy-IO/appflowy.svg"></a>
 <a href="https://opensource.org/licenses/AGPL-3.0"><img src="https://img.shields.io/badge/license-AGPL-purple.svg" alt="License: AGPL"></a>
 
 </p>
@@ -41,7 +41,7 @@ AppFlowy is the AI workspace where you achieve more without losing control of yo
 
 ## User Installation
 
-- [Download AppFlowy Desktop (macOS, Windows, and Linux)](https://github.com/AppFlowy-IO/AppFlowy/releases)
+- [Download AppFlowy Desktop (macOS, Windows, and Linux)](https://github.com/VictorRaynor/AppFlowy/releases)
 - Other
   channels: [FlatHub](https://flathub.org/apps/io.appflowy.AppFlowy), [Snapcraft](https://snapcraft.io/appflowy), [Sourceforge](https://sourceforge.net/projects/appflowy/)
 - Available on
@@ -59,7 +59,7 @@ AppFlowy is the AI workspace where you achieve more without losing control of yo
 
 ## Stay Up-to-Date
 
-<p align="center"><img src="https://github.com/AppFlowy-IO/appflowy/blob/main/doc/imgs/howtostar.gif" alt="AppFlowy Github - how to star the repo" width="100%" /></p>
+<p align="center"><img src="https://github.com/VictorRaynor/AppFlowy/blob/main/doc/imgs/howtostar.gif" alt="AppFlowy Github - how to star the repo" width="100%" /></p>
 
 ## Getting Started with development
 
@@ -72,9 +72,9 @@ development instructions
 - [AppFlowy Public Roadmap](https://github.com/orgs/AppFlowy-IO/projects/5/views/12)
 
 If you'd like to propose a feature, submit a feature
-request [here](https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&labels=&template=feature_request.yaml&title=%5BFR%5D+) <br/>
+request [here](https://github.com/VictorRaynor/AppFlowy/issues/new?assignees=&labels=&template=feature_request.yaml&title=%5BFR%5D+) <br/>
 If you'd like to report a bug, submit a bug
-report [here](https://github.com/AppFlowy-IO/AppFlowy/issues/new?assignees=&labels=&template=bug_report.yaml&title=%5BBug%5D+)
+report [here](https://github.com/VictorRaynor/AppFlowy/issues/new?assignees=&labels=&template=bug_report.yaml&title=%5BBug%5D+)
 
 ## **Releases**
 
@@ -103,7 +103,7 @@ run `npx inlang machine translate` to add missing translations.
 
 ## Join the community to build AppFlowy together
 
-<a href="https://github.com/AppFlowy-IO/AppFlowy/graphs/contributors">
+<a href="https://github.com/VictorRaynor/AppFlowy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=AppFlowy-IO/AppFlowy" />
 </a>
 
@@ -147,7 +147,7 @@ beautiful things on their own by equipping them with a versatile toolbox of buil
 
 ## License
 
-Distributed under the AGPLv3 License. See [`LICENSE.md`](https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE) for
+Distributed under the AGPLv3 License. See [`LICENSE.md`](https://github.com/VictorRaynor/AppFlowy/blob/main/LICENSE) for
 more information.
 
 ## Acknowledgments

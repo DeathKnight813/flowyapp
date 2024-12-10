@@ -24,7 +24,7 @@ pub enum Server {
   /// Offline mode, no user authentication and the data is stored locally.
   Local = 0,
   /// AppFlowy Cloud server provider.
-  /// See: https://github.com/AppFlowy-IO/AppFlowy-Cloud
+  /// See: https://github.com/VictorRaynor/AppFlowy-Cloud
   AppFlowyCloud = 1,
 }
 

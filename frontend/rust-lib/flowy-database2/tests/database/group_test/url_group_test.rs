@@ -11,7 +11,7 @@ async fn group_group_by_url() {
   // Check group row counts
   test.assert_group_row_count(0, 2).await; // No status group
   test.assert_group_row_count(1, 2).await; // https://appflowy.io group
-  test.assert_group_row_count(2, 1).await; // https://github.com/AppFlowy-IO/AppFlowy group
+  test.assert_group_row_count(2, 1).await; // https://github.com/VictorRaynor/AppFlowy group
   test.assert_group_count(3).await;
 }
 
@@ -26,7 +26,7 @@ async fn group_alter_url_to_another_group_url_test() {
   // Check initial group row counts
   test.assert_group_row_count(0, 2).await; // No status group
   test.assert_group_row_count(1, 2).await; // https://appflowy.io group
-  test.assert_group_row_count(2, 1).await; // https://github.com/AppFlowy-IO/AppFlowy group
+  test.assert_group_row_count(2, 1).await; // https://github.com/VictorRaynor/AppFlowy group
 
   // Move the last row from group 2 to group 1
   test.update_grouped_cell(2, 0, 1).await;
@@ -51,7 +51,7 @@ async fn group_alter_url_to_new_url_test() {
   // Verify group row counts after URL update
   test.assert_group_row_count(0, 1).await; // No status group
   test.assert_group_row_count(1, 2).await; // https://appflowy.io group
-  test.assert_group_row_count(2, 1).await; // https://github.com/AppFlowy-IO/AppFlowy group
+  test.assert_group_row_count(2, 1).await; // https://github.com/VictorRaynor/AppFlowy group
   test.assert_group_row_count(3, 1).await; // https://github.com/AppFlowy-IO group
   test.assert_group_count(4).await;
 }
@@ -67,7 +67,7 @@ async fn group_move_url_group_row_test() {
   // Check initial group row counts
   test.assert_group_row_count(0, 2).await; // No status group
   test.assert_group_row_count(1, 2).await; // https://appflowy.io group
-  test.assert_group_row_count(2, 1).await; // https://github.com/AppFlowy-IO/AppFlowy group
+  test.assert_group_row_count(2, 1).await; // https://github.com/VictorRaynor/AppFlowy group
   test.assert_group_count(3).await;
 
   // Move a row from one group to another

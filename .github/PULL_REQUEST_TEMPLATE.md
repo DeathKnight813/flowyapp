@@ -10,7 +10,7 @@ If your pull request adds a new feature, please drag and drop a video into this 
 
 <!---
 List at least one issue here that this PR addresses. If it fixes the issue, please use the [fixes](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests) keyword to close the issue. For example:
-fixes https://github.com/AppFlowy-IO/AppFlowy/pull/2106
+fixes https://github.com/VictorRaynor/AppFlowy/pull/2106
 -->
 
 ---

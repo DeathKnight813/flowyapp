@@ -274,7 +274,7 @@ void main() {
     },
   );
 
-  // https://github.com/AppFlowy-IO/AppFlowy/issues/3263
+  // https://github.com/VictorRaynor/AppFlowy/issues/3263
   testWidgets(
     'paste the image from clipboard when html and image are both available',
     (tester) async {

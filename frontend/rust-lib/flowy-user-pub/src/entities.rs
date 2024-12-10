@@ -345,7 +345,7 @@ pub enum Authenticator {
   /// It's a local server, we do fake sign in default.
   Local = 0,
   /// Currently not supported. It will be supported in the future when the
-  /// [AppFlowy-Server](https://github.com/AppFlowy-IO/AppFlowy-Server) ready.
+  /// [AppFlowy-Server](https://github.com/VictorRaynor/AppFlowy-Server) ready.
   AppFlowyCloud = 1,
 }
 

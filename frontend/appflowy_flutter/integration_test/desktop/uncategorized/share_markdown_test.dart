@@ -106,7 +106,7 @@ fn main() {
 > 🥰
 > 
 > Like AppFlowy? Follow us:
-> [GitHub](https://github.com/AppFlowy-IO/AppFlowy)
+> [GitHub](https://github.com/VictorRaynor/AppFlowy)
 > [Twitter](https://twitter.com/appflowy): @appflowy
 > [Newsletter](https://blog-appflowy.ghost.io/)
 > 

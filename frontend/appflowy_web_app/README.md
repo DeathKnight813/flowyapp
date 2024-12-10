@@ -56,7 +56,7 @@ Before you begin, make sure you have the following installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/AppFlowy-IO/AppFlowy.git
+git clone https://github.com/VictorRaynor/AppFlowy.git
 cd frontend/appflowy_web_app
 ```
 

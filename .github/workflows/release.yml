@@ -509,5 +509,5 @@ jobs:
     steps:
       - name: Notify Discord
         run: |
-          curl -H "Content-Type: application/json" -d '{"username": "release@appflowy", "content": "🎉 AppFlowy ${{ github.ref_name }} is available. https://github.com/AppFlowy-IO/AppFlowy/releases/tag/'${{ github.ref_name }}'"}' "https://discord.com/api/webhooks/${{ secrets.DISCORD }}"
+          curl -H "Content-Type: application/json" -d '{"username": "release@appflowy", "content": "🎉 AppFlowy ${{ github.ref_name }} is available. https://github.com/VictorRaynor/AppFlowy/releases/tag/'${{ github.ref_name }}'"}' "https://discord.com/api/webhooks/${{ secrets.DISCORD }}"
         shell: bash

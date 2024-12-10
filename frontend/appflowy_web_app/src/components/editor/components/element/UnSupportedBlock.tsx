@@ -18,7 +18,7 @@ export const UnSupportedBlock = forwardRef<HTMLDivElement, EditorElementProps>((
           {`We're sorry for inconvenience \n`}
           Submit an issue on our{' '}<a
           className={'underline text-fill-default'}
-          href={'https://github.com/AppFlowy-IO/AppFlowy/issues/new?template=bug_report.yaml'}
+          href={'https://github.com/VictorRaynor/AppFlowy/issues/new?template=bug_report.yaml'}
         >Github</a>{' '}page that describes your error
         </div>
 

@@ -31,7 +31,7 @@ void main() {
         findsOneWidget,
       );
 
-      // https://github.com/AppFlowy-IO/AppFlowy/issues/3533
+      // https://github.com/VictorRaynor/AppFlowy/issues/3533
       // test: the selection of editor should be clear when editing the grid
       await tester.editor.updateSelection(
         Selection.collapsed(

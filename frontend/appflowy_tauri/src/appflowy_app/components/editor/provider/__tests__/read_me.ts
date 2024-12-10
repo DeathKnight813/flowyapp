@@ -335,7 +335,7 @@ export default {
     ],
     qJcR2SnePa: [
       { insert: '\nLike AppFlowy? Follow us:\n' },
-      { insert: 'GitHub', attributes: { href: 'https://github.com/AppFlowy-IO/AppFlowy' } },
+      { insert: 'GitHub', attributes: { href: 'https://github.com/VictorRaynor/AppFlowy' } },
       { insert: '\n' },
       { insert: 'Twitter', attributes: { href: 'https://twitter.com/appflowy' } },
       { insert: ': @appflowy\n' },

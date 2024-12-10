@@ -558,7 +558,7 @@ If you’ve been using our desktop app, it’s important to read [this guide](ht
 
 ### New Features
 
-<img width="1147" src="https://github.com/AppFlowy-IO/AppFlowy/assets/11863087/ac464740-c685-4a85-ae99-1074c1c607e5">
+<img width="1147" src="https://github.com/VictorRaynor/AppFlowy/assets/11863087/ac464740-c685-4a85-ae99-1074c1c607e5">
 
 - Open page in new tab
 - Create toggle lists to keep things tidy in your pages
@@ -668,11 +668,11 @@ The data format of this version is not compatible with previous versions. Theref
 
 #### Export files in v0.1.6
 
-https://github.com/AppFlowy-IO/AppFlowy/assets/11863087/0c89bf2b-cd97-4a7b-b627-59df8d2967d9
+https://github.com/VictorRaynor/AppFlowy/assets/11863087/0c89bf2b-cd97-4a7b-b627-59df8d2967d9
 
 #### Import files in v0.2.0
 
-https://github.com/AppFlowy-IO/AppFlowy/assets/11863087/7b392f35-4972-497a-8a7f-f38efced32e2
+https://github.com/VictorRaynor/AppFlowy/assets/11863087/7b392f35-4972-497a-8a7f-f38efced32e2
 
 ## Version 0.1.5 - 11/05/2023
 

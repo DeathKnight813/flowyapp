@@ -54,7 +54,7 @@ packages:
       path: "."
       ref: "5517c8704c0dbeaeda5601e9baadb4cc2b29990d"
       resolved-ref: "5517c8704c0dbeaeda5601e9baadb4cc2b29990d"
-      url: "https://github.com/AppFlowy-IO/appflowy-board.git"
+      url: "https://github.com/VictorRaynor/AppFlowy-board.git"
     source: git
     version: "0.1.2"
   appflowy_editor:
@@ -63,7 +63,7 @@ packages:
       path: "."
       ref: f32762e
       resolved-ref: f32762eae0a703e15ae681947ad1ff110d2e477a
-      url: "https://github.com/AppFlowy-IO/appflowy-editor.git"
+      url: "https://github.com/VictorRaynor/AppFlowy-editor.git"
     source: git
     version: "4.0.0"
   appflowy_editor_plugins:
@@ -72,7 +72,7 @@ packages:
       path: "packages/appflowy_editor_plugins"
       ref: "3f82111"
       resolved-ref: "3f82111f958b0ac9f06aa80fd19a629f3a649ec0"
-      url: "https://github.com/AppFlowy-IO/AppFlowy-plugins.git"
+      url: "https://github.com/VictorRaynor/AppFlowy-plugins.git"
     source: git
     version: "0.0.6"
   appflowy_popover:

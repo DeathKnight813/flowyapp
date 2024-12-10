@@ -141,7 +141,7 @@ class _BubbleActionListState extends State<BubbleActionList> {
               break;
             case BubbleAction.github:
               afLaunchUrlString(
-                'https://github.com/AppFlowy-IO/AppFlowy/issues/new/choose',
+                'https://github.com/VictorRaynor/AppFlowy/issues/new/choose',
               );
               break;
           }

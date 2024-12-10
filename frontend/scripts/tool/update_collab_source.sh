@@ -12,12 +12,12 @@ REPO_RELATIVE_PATH_2="../../AppFlowy-Collab"
 switch_deps() {
     local cargo_toml="$1"
     local repo_path="$2"
-    if grep -q 'git = "https://github.com/AppFlowy-IO/AppFlowy-Collab"' "$cargo_toml"; then
+    if grep -q 'git = "https://github.com/VictorRaynor/AppFlowy-Collab"' "$cargo_toml"; then
         cp "$cargo_toml" "$cargo_toml.bak"
         # Switch to local paths
         for crate in collab collab-folder collab-document collab-database collab-plugins collab-user collab-entity collab-sync-protocol collab-persistence collab-importer; do
             sed -i '' \
-                -e "s#${crate} = { .*git = \"https://github.com/AppFlowy-IO/AppFlowy-Collab\".* }#${crate} = { path = \"$repo_path/$crate\" }#g" \
+                -e "s#${crate} = { .*git = \"https://github.com/VictorRaynor/AppFlowy-Collab\".* }#${crate} = { path = \"$repo_path/$crate\" }#g" \
                 "$cargo_toml"
         done
         echo "Switched to local paths in $cargo_toml."
@@ -33,7 +33,7 @@ switch_deps() {
 # Check if AppFlowy-Collab directory exists
 if [ ! -d "$REPO_PATH" ]; then
     echo "AppFlowy-Collab directory not found. Cloning the repository..."
-    git clone https://github.com/AppFlowy-IO/AppFlowy-Collab.git "$REPO_PATH"
+    git clone https://github.com/VictorRaynor/AppFlowy-Collab.git "$REPO_PATH"
 fi
 
 # Switch dependencies in both Cargo.toml files
